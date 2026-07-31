@@ -1,0 +1,22 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+*.slxc
+slprj/
+codegen/
+*.mex*
+octave-workspace
+
+# Generated figures / exports (regenerate by running the scripts)
+*.fig
+*.png
+*.pdf
+*.eps
+*.svg
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
