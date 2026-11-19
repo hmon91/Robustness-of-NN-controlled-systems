@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+type: software
+title: "Robust Stability Analysis of Positive Lur'e Systems with Neural Network Feedback (code)"
+abstract: "MATLAB code for the CCTA 2025 paper: the closed-form stability radius of positive Lur'e systems and the sector-bound refinement for neural network feedback. It reproduces the two numerical examples of the paper."
+authors:
+  - family-names: "Montazeri Hedesh"
+    given-names: "Hamidreza"
+    orcid: "https://orcid.org/0009-0007-0041-830X"
+    affiliation: "Northeastern University"
+repository-code: "https://github.com/hmon91/Robustness-of-NN-controlled-systems"
+url: "https://hmon91.github.io/publication/2025-09-01-ccta-paper"
+license: MIT
+keywords:
+  - "neural network controllers"
+  - "robust stability"
+  - "stability radius"
+  - "Lur'e systems"
+  - "positive systems"
+  - "Metzler matrices"
+preferred-citation:
+  type: conference-paper
+  title: "Robust Stability Analysis of Positive Lur'e System with Neural Network Feedback"
+  authors:
+    - family-names: "Montazeri Hedesh"
+      given-names: "Hamidreza"
+      orcid: "https://orcid.org/0009-0007-0041-830X"
+    - family-names: "Wafi"
+      given-names: "Moh Kamalul"
+      orcid: "https://orcid.org/0000-0002-2016-5721"
+    - family-names: "Shafai"
+      given-names: "Bahram"
+    - family-names: "Siami"
+      given-names: "Milad"
+      orcid: "https://orcid.org/0000-0001-7253-4464"
+  collection-title: "2025 IEEE Conference on Control Technology and Applications (CCTA)"
+  conference:
+    name: "IEEE Conference on Control Technology and Applications (CCTA)"
+    city: "San Diego, CA"
+    country: "US"
+  publisher:
+    name: "IEEE"
+  start: 976
+  end: 981
+  year: 2025
+  doi: "10.1109/CCTA53793.2025.11151493"
+  identifiers:
+    - type: url
+      value: "https://arxiv.org/abs/2505.18912"
+      description: "Free preprint on arXiv"
